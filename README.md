@@ -9,7 +9,7 @@ A custom Catppuccin Mocha-inspired theme for Google Chrome.
 - This theme was designed and configured using [Theme Creator](https://www.themebeta.com/chrome-theme-creator-online.html "Go to ThemeBeta Theme Creator page") on [ThemeBeta](https://www.themebeta.com/ "Go to ThemeBeta homepage") website.
 
 # **Installation Instructions**
-- Install [Google Chrome](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-GB "Click to download Firefox").
+- Install [Google Chrome](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-GB "Click to download Firefox") browser.
 - Go to the [theme page](https://www.themebeta.com/chrome/theme/1599976 "Go to Catppucin Mocha Alternative download page") on [ThemeBeta](https://www.themebeta.com/ "Go to ThemeBeta homepage") website.
 - Click the [Download](https://www.themebeta.com/chrome/theme/1599976/download "Click here to Download") button and download the `.zip` file.
   ### **or**
