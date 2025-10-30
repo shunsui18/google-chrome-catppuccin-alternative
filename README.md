@@ -10,7 +10,7 @@ A custom Catppuccin Mocha-inspired theme for Google Chrome.
 - The [background image](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/3d-model.jpg) is collected from [orangc's catppuccin wallpaper repository](https://github.com/orangci/walls-catppuccin-mocha?tab=readme-ov-file).
 
 # **Installation Instructions**
-- Install [Google Chrome](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-GB "Click to download Firefox") browser.
+- Install [Google Chrome](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-GB "Click to download Google Chrome") browser.
 - Go to the [theme page](https://www.themebeta.com/chrome/theme/1599976 "Go to Catppucin Mocha Alternative download page") on [ThemeBeta](https://www.themebeta.com/ "Go to ThemeBeta homepage") website.
 - Click the [Download](https://www.themebeta.com/chrome/theme/1599976/download "Click here to Download") button and download the `.zip` file.
   ### **or**
